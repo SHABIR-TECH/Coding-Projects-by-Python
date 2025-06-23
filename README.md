@@ -1,4 +1,4 @@
-# 🐍 Python Projects Portfolio
+# 🐍 Python Projects 
 
 Welcome to my collection of Python projects — built through hands-on practice, real-world problem-solving, and experimentation in **Google Colab** and **Jupyter Notebooks**. These projects reflect my skills in data manipulation, visualization, statistical analysis, and automation using Python.
 
